@@ -9,5 +9,6 @@ public class NotReallyAProjectActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        /* Hi there! */
     }
 }
